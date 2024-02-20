@@ -1,15 +1,35 @@
-### NewsGrid Website 
+# GridNew
 
-**a practice website on grid system concepts including**
-- grid system layout for main sections
-- flex box layout for sub-sections
-- a contact for with email and a text field with some backend methodologies
-- alot of CSS3 concepts i have learned
+GridNew is a website practice project focusing on the CSS Grid system for layout design. It features blogs, tech news, and other articles.
 
-### Live site
-- the site is live at : [NewsGrid Website](https://news-grid-system.netlify.app/)
+## Overview
 
+GridNew is a demonstration of CSS Grid usage for creating responsive and visually appealing layouts. It showcases articles on various topics including technology, blogs, and news.
 
-### Developing Notes
-> creationg time : Feb 8 2024
-> Project Total Time : 8 Hours 
+## Features
+
+- Responsive layout using CSS Grid
+- Articles on technology, blogs, and news
+- Easy navigation through different sections
+
+## Preview
+
+### Desktop View
+![Desktop Preview 1](NewsGridDemoOne.png)
+![Desktop Preview 2](NewsGridDemoTwo.png)
+
+### Mobile View
+![Mobile Preview](NewsGridDemoThree.png)
+
+## Live Demo
+
+[Live Demo](https://newsgrid-websit-demo.netlify.app/)
+
+## Usage
+
+To run this project locally, simply clone the repository and open the `index.html` file in your web browser.
+
+```bash
+git clone https://github.com/Islam-Sobhy-Yousof/GridNew.git
+cd GridNew
+
